@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\thial\.android\build-cache\ad2ea994be1ae86ee1cdb5bf0504cd4a6c8a18a7\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\thial\.android\build-cache\926e9a2699f003db57ec3425ad2bd36bb8382d35\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\thial\.android\build-cache\2c53fa7dc5c79935fbc7968402b020cf1afb94a4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\thial\.android\build-cache\22a8db0c4fee7418688e9734df8b127772e1af9b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\thial\.android\build-cache\36894efa97b96b2ee4aea5fd1340c14bff58b0d3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\thial\.android\build-cache\fc2b39b36f6e4ed1a14fcbc72d9a03af696673f0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\thial\.android\build-cache\06cd668c2689c8044d8e9bb27caa7a5cc58b0f13\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\thial\.android\build-cache\385fe58b6e511e703845b44c9d0085582519d9b5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\thial\.android\build-cache\b5d947fe7a3b17786f033d8ab51ddcdf1b6dc2cd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\thial\.android\build-cache\78c63ca6caf7aa949b47cc15720529e6bba35ca9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\thial\.android\build-cache\3b9515951f273989758ba792615c633242f91ebf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\thial\.android\build-cache\ed2e736c433aa9a15eeace5a84dafee57a884d67\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:13:9-39
+activity#com.ufs.tep.sgr_final.Login
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:theme
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:16:13-69
+	android:name
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:15:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.ufs.tep.sgr_final.Index
+ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:23:9-26:67
+	android:label
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:25:13-57
+	android:theme
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:26:13-55
+	android:name
+		ADDED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml:24:13-34
+uses-sdk
+INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\thial\.android\build-cache\ad2ea994be1ae86ee1cdb5bf0504cd4a6c8a18a7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\thial\.android\build-cache\926e9a2699f003db57ec3425ad2bd36bb8382d35\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\thial\.android\build-cache\2c53fa7dc5c79935fbc7968402b020cf1afb94a4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\thial\.android\build-cache\22a8db0c4fee7418688e9734df8b127772e1af9b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\thial\.android\build-cache\36894efa97b96b2ee4aea5fd1340c14bff58b0d3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\thial\.android\build-cache\20733052954d9e32e80429c392cce8508d2fbf82\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\thial\.android\build-cache\fc2b39b36f6e4ed1a14fcbc72d9a03af696673f0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\thial\.android\build-cache\06cd668c2689c8044d8e9bb27caa7a5cc58b0f13\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\thial\.android\build-cache\385fe58b6e511e703845b44c9d0085582519d9b5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\thial\.android\build-cache\b5d947fe7a3b17786f033d8ab51ddcdf1b6dc2cd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\thial\.android\build-cache\78c63ca6caf7aa949b47cc15720529e6bba35ca9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\thial\.android\build-cache\3b9515951f273989758ba792615c633242f91ebf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\thial\.android\build-cache\ed2e736c433aa9a15eeace5a84dafee57a884d67\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\thial\.android\build-cache\926e9a2699f003db57ec3425ad2bd36bb8382d35\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thial\Downloads\SGR_Final-20171002T232234Z-001\SGR_Final\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\thial\.android\build-cache\926e9a2699f003db57ec3425ad2bd36bb8382d35\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\thial\.android\build-cache\2c53fa7dc5c79935fbc7968402b020cf1afb94a4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\thial\.android\build-cache\22a8db0c4fee7418688e9734df8b127772e1af9b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\thial\.android\build-cache\36894efa97b96b2ee4aea5fd1340c14bff58b0d3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\thial\.android\build-cache\20733052954d9e32e80429c392cce8508d2fbf82\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\thial\.android\build-cache\fc2b39b36f6e4ed1a14fcbc72d9a03af696673f0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\thial\.android\build-cache\06cd668c2689c8044d8e9bb27caa7a5cc58b0f13\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\thial\.android\build-cache\385fe58b6e511e703845b44c9d0085582519d9b5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\thial\.android\build-cache\b5d947fe7a3b17786f033d8ab51ddcdf1b6dc2cd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\thial\.android\build-cache\78c63ca6caf7aa949b47cc15720529e6bba35ca9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\thial\.android\build-cache\3b9515951f273989758ba792615c633242f91ebf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\thial\.android\build-cache\ed2e736c433aa9a15eeace5a84dafee57a884d67\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\thial\.android\build-cache\926e9a2699f003db57ec3425ad2bd36bb8382d35\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\thial\.android\build-cache\926e9a2699f003db57ec3425ad2bd36bb8382d35\output\AndroidManifest.xml:26:9-47

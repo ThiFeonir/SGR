@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\thial\\.android\\build-cache\\2c53fa7dc5c79935fbc7968402b020cf1afb94a4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\thial\\.android\\build-cache\\2c53fa7dc5c79935fbc7968402b020cf1afb94a4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\thial\\.android\\build-cache\\2c53fa7dc5c79935fbc7968402b020cf1afb94a4\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\thial\\.android\\build-cache\\2c53fa7dc5c79935fbc7968402b020cf1afb94a4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

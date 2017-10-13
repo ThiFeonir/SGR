@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="appcolor">#35978f</color>
+    <color name="actionBar">#3db8ad</color>
+    <color name="freeLight">#42f480</color>
+    <color name="freeDark">#2abf5e</color>
+    <color name="occupiedLight">#f28a8a</color>
+    <color name="occupiedDark">#b26060</color>
+    <color name="white">#ffffff</color>
+</resources>

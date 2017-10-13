@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\thial\\.android\\build-cache\\8a21024b80c23d44cc50b9bed0dfaef298dc5094\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

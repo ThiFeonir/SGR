@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_settings_black_24dp.png",
+        "source": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_person_black_24dp.png",
+        "source": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_exit_to_app_black_24dp.png",
+        "source": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_pan_tool_black_24dp.png",
+        "source": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_pan_tool_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_bookmark_black_24dp.png",
+        "source": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_bookmark_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_view_module_black_24dp.png",
+        "source": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_view_module_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_home_black_24dp.png",
+        "source": "C:\\Users\\thial\\Downloads\\SGR_Final-20171002T232234Z-001\\SGR_Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_home_black_24dp.png"
+    }
+]
